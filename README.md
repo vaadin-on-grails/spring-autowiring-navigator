@@ -1,4 +1,4 @@
-spring-autowiring-basics
-========================
+spring-autowiring-navigator
+===========================
 
-Example how to use Autowired in Vaadin
+Example how to use VaadinUI and VaadinView annotations with autowiring
